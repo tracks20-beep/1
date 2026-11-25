@@ -1,0 +1,6 @@
+{
+  "name": "VeloPlay",
+  "description": "Versatile local and streaming audio/video media player with background playback, resizable floating popup & PiP, folder-based playback, A-B loop, and gesture controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

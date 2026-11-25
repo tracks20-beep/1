@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VeloPlay</string>
+    <string name="nav_library">라이브러리</string>
+    <string name="nav_playlists">재생목록</string>
+    <string name="nav_folders">폴더</string>
+    <string name="nav_settings">설정</string>
+    <string name="action_add_media">미디어 추가</string>
+    <string name="action_add_url">스트림 URL 추가</string>
+    <string name="pip_action_rewind">10초 뒤로</string>
+    <string name="pip_action_play">재생</string>
+    <string name="pip_action_pause">일시정지</string>
+    <string name="pip_action_forward">10초 앞으로</string>
+</resources>
